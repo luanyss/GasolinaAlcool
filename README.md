@@ -16,5 +16,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Gradle](https://gradle.org/) - Automatização de buils, gerente de dependências assim como o Maven
 
 
+![Gasolina ou Álcool](https://github.com/luanyss/GasolinaAlcool/blob/master/ezgif.com-video-to-gif.gif)
+
 ---
 ⌨️ com ❤️ por [Luany](https://github.com/luanyss) 😊
