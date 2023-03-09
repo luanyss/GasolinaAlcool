@@ -1,6 +1,8 @@
 # App Álcool ou Gasolina
 
-Um aplicativo que calcula qual é a opção mais vantajosa na hora de abastecer o carro: gasolina ou álcool. 
+Um aplicativo que calcula qual é a opção mais vantajosa na hora de abastecer o carro: gasolina ou álcool.
+
+Funciona da seguinte forma: se o preço do álcool dividido (/) pelo preço da gasolina for maior que 0.7 que basicamente é 70% do preço, é melhor utilizar gasolina. Se não, é melhor utilizar álcool.
 
 O objetivo do desenvolvimento desse app foi por em prática Kotlin, conceitos de entrada de dados, operações matemáticas e condicionais além de criar interfaces de usuário intuitivas e funcionais utilizando o Android Studio.
 
